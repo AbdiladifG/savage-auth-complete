@@ -1,3 +1,7 @@
+## View Website
+
+1. Navigate to savage-auth.up.railway.app
+
 ## Installation
 
 1. Clone repo
@@ -5,9 +9,7 @@
 
 ## Usage
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+1. run `npm run savage`
+2. Navigate to `localhost:3000`
 
-## Credit
-
-Modified from Scotch.io's auth tutorial
+![21 Savage](public/21savage.jpg)
